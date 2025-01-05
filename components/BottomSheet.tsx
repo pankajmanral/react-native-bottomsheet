@@ -1,3 +1,6 @@
+// link for reference bottomsheet
+// https://youtu.be/SgeAfiz_j_w
+
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import BottomSheet, { BottomSheetView } from '@gorhom/bottom-sheet'
 import { Image, StyleSheet, Text, View } from 'react-native'
